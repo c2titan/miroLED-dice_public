@@ -1,0 +1,9 @@
+push button: B3FS-1010, B3FS1000P
+on-off button: PCM12SMTR
+battery holder: DS1092-13-N8S
+LEDs: LR T68F-U1AA-1-1, OS6OGAS1C1A
+resistors SMD 0805 R1, R2, R3: 5k6
+resistor SMD 0805 R4: 10k
+pin strip for programming (6x 1.27mm pitch)
+
+arduino nano for programming, 10uF electrolytic capacitor
